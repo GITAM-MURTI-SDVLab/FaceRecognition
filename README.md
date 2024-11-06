@@ -38,10 +38,7 @@ dataset with random transformations for improved training accuracy.
 ### Prerequisites
 
 - Python 3.x
-- OpenCV
 - PyTorch
-- YOLOv8
-- pyttsx3
 
 ### Requirements
 
@@ -57,7 +54,7 @@ dataset with random transformations for improved training accuracy.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/thippeswammy/FaceRecognition.git
+   https://github.com/GITAM-MURTI-SDVLab/FaceRecognition.git
    cd FaceRecognition
    ```
 
